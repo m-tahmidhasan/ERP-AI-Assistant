@@ -41,8 +41,9 @@ Launch the application from your APEX workspace
 
 # 📸 Screenshots
 
-![Home Interface](screenshots/home-interface.png)
-![Login Interface](screenshots/login-interface.png)
+![Login Interface](login-interface.png)
+
+![Home Interface](home-interface.png)
 
 
 # 🎯 Use Case
